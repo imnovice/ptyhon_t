@@ -9,4 +9,3 @@ pygame==2.5.2
 setuptools==69.0.3
 waitress==2.1.2
 Werkzeug==3.0.1
-python-dotnet==1.0.0
